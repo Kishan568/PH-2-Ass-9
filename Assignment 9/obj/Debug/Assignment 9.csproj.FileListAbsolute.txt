@@ -1,0 +1,8 @@
+E:\Users\kishan\source\repos\PHASE 2\Assignment 9\Assignment 9\bin\Debug\Assignment 9.exe.config
+E:\Users\kishan\source\repos\PHASE 2\Assignment 9\Assignment 9\bin\Debug\Assignment 9.exe
+E:\Users\kishan\source\repos\PHASE 2\Assignment 9\Assignment 9\bin\Debug\Assignment 9.pdb
+E:\Users\kishan\source\repos\PHASE 2\Assignment 9\Assignment 9\obj\Debug\Assignment 9.csproj.AssemblyReference.cache
+E:\Users\kishan\source\repos\PHASE 2\Assignment 9\Assignment 9\obj\Debug\Assignment 9.csproj.SuggestedBindingRedirects.cache
+E:\Users\kishan\source\repos\PHASE 2\Assignment 9\Assignment 9\obj\Debug\Assignment 9.csproj.CoreCompileInputs.cache
+E:\Users\kishan\source\repos\PHASE 2\Assignment 9\Assignment 9\obj\Debug\Assignment 9.exe
+E:\Users\kishan\source\repos\PHASE 2\Assignment 9\Assignment 9\obj\Debug\Assignment 9.pdb
